@@ -19,5 +19,7 @@ Arduino IDE and ESP32 SDK core 2.0.17 ; other may work too.
 
 Youtube video link: https://www.youtube.com/watch?v=vk9e7C9kq8o
 
+You can buy me a coffee: https://ko-fi.com/stojanm
+
 <img width="1365" height="768" alt="IMGfTtiuMl7go" src="https://github.com/user-attachments/assets/5fc974fe-479e-4703-a549-38f8e7b9371e" />
 
